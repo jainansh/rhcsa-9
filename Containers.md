@@ -21,6 +21,9 @@ Search your registries for an image.
 Manage and inspect images no matter where they are.
 ``skopeo inspect docker://path-to-image``
 
+Podman command to list tags
+``podman search --list-tags path-to-image``
+
 ## Container File
 
 To automate container builds. What we want in our container image.
